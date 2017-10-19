@@ -1,0 +1,13 @@
+.env
+/target
+/jenkins_home
+.settings
+/.project
+/.classpath
+.DS_Store
+.idea
+.nrepl-port
+*.iml
+*.iws
+**/Slask*
+**/slask*

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<scriptApproval plugin="script-security@1.34">
+    <approvedScriptHashes/>
+    <approvedSignatures>
+        <string>method java.io.File exists</string>
+        <string>method java.io.File getCanonicalPath</string>
+        <string>method java.io.File getParentFile</string>
+        <string>method java.io.File getText</string>
+        <string>method java.io.File mkdirs</string>
+        <string>method java.io.File setText</string>
+        <string>new java.io.File java.lang.String</string>
+        <string>staticMethod org.codehaus.groovy.runtime.DefaultGroovyMethods getText java.io.File</string>
+        <string>staticMethod org.codehaus.groovy.runtime.DefaultGroovyMethods setText java.io.File java.lang.String</string>
+    </approvedSignatures>
+    <aclApprovedSignatures/>
+    <approvedClasspathEntries/>
+    <pendingScripts/>
+    <pendingSignatures>
+    </pendingSignatures>
+    <pendingClasspathEntries/>
+</scriptApproval>
+
